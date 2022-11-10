@@ -1,0 +1,79 @@
+C:\Users\rober\source\repos\proyecto final\proyecto final\bin\Debug\proyecto final.exe.config
+C:\Users\rober\source\repos\proyecto final\proyecto final\bin\Debug\proyecto final.exe
+C:\Users\rober\source\repos\proyecto final\proyecto final\bin\Debug\proyecto final.pdb
+C:\Users\rober\source\repos\proyecto final\proyecto final\obj\Debug\proyecto final.csproj.AssemblyReference.cache
+C:\Users\rober\source\repos\proyecto final\proyecto final\obj\Debug\proyecto_final.Usuario.resources
+C:\Users\rober\source\repos\proyecto final\proyecto final\obj\Debug\proyecto_final.Properties.Resources.resources
+C:\Users\rober\source\repos\proyecto final\proyecto final\obj\Debug\proyecto final.csproj.GenerateResource.cache
+C:\Users\rober\source\repos\proyecto final\proyecto final\obj\Debug\proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\proyecto final\proyecto final\obj\Debug\proyecto final.exe
+C:\Users\rober\source\repos\proyecto final\proyecto final\obj\Debug\proyecto final.pdb
+C:\Users\rober\source\repos\proyecto final\proyecto final\obj\Debug\proyecto_final.Menu.resources
+C:\Users\Usuario\Desktop\proyectos\proyecto final\proyecto final\bin\Debug\proyecto final.exe.config
+C:\Users\Usuario\Desktop\proyectos\proyecto final\proyecto final\bin\Debug\proyecto final.exe
+C:\Users\Usuario\Desktop\proyectos\proyecto final\proyecto final\bin\Debug\proyecto final.pdb
+C:\Users\Usuario\Desktop\proyectos\proyecto final\proyecto final\obj\Debug\proyecto final.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\proyectos\proyecto final\proyecto final\obj\Debug\proyecto_final.Usuario.resources
+C:\Users\Usuario\Desktop\proyectos\proyecto final\proyecto final\obj\Debug\proyecto_final.Properties.Resources.resources
+C:\Users\Usuario\Desktop\proyectos\proyecto final\proyecto final\obj\Debug\proyecto final.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\proyectos\proyecto final\proyecto final\obj\Debug\proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\proyectos\proyecto final\proyecto final\obj\Debug\proyecto final.exe
+C:\Users\Usuario\Desktop\proyectos\proyecto final\proyecto final\obj\Debug\proyecto final.pdb
+C:\Users\tania\Downloads\proyecto final\proyecto final\obj\Debug\proyecto final.csprojAssemblyReference.cache
+C:\Users\tania\Downloads\proyecto final\proyecto final\obj\Debug\proyecto_final.Menu.resources
+C:\Users\tania\Downloads\proyecto final\proyecto final\obj\Debug\proyecto_final.Usuario.resources
+C:\Users\tania\Downloads\proyecto final\proyecto final\obj\Debug\proyecto_final.Properties.Resources.resources
+C:\Users\tania\Downloads\proyecto final\proyecto final\obj\Debug\proyecto final.csproj.GenerateResource.cache
+C:\Users\tania\Downloads\proyecto final\proyecto final\obj\Debug\proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\tania\Downloads\proyecto final\proyecto final\obj\Debug\proyecto final.exe
+C:\Users\tania\Downloads\proyecto final\proyecto final\obj\Debug\proyecto final.pdb
+C:\Users\tania\Downloads\proyecto final\proyecto final\bin\Debug\proyecto final.exe.config
+C:\Users\tania\Downloads\proyecto final\proyecto final\bin\Debug\proyecto final.exe
+C:\Users\tania\Downloads\proyecto final\proyecto final\bin\Debug\proyecto final.pdb
+C:\Users\rober\Desktop\proyecto final\proyecto final\bin\Debug\proyecto final.exe.config
+C:\Users\rober\Desktop\proyecto final\proyecto final\bin\Debug\proyecto final.exe
+C:\Users\rober\Desktop\proyecto final\proyecto final\bin\Debug\proyecto final.pdb
+C:\Users\rober\Desktop\proyecto final\proyecto final\obj\Debug\proyecto final.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\proyecto final\proyecto final\obj\Debug\proyecto_final.Menu.resources
+C:\Users\rober\Desktop\proyecto final\proyecto final\obj\Debug\proyecto_final.Usuario.resources
+C:\Users\rober\Desktop\proyecto final\proyecto final\obj\Debug\proyecto_final.Properties.Resources.resources
+C:\Users\rober\Desktop\proyecto final\proyecto final\obj\Debug\proyecto final.csproj.GenerateResource.cache
+C:\Users\rober\Desktop\proyecto final\proyecto final\obj\Debug\proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\proyecto final\proyecto final\obj\Debug\proyecto final.exe
+C:\Users\rober\Desktop\proyecto final\proyecto final\obj\Debug\proyecto final.pdb
+C:\Users\rober\Desktop\proyecto final\proyecto final\obj\Debug\proyecto_final.Ayuda.resources
+C:\Users\Usuario\Desktop\proyectos\proyecto final\proyecto final\obj\Debug\proyecto_final.Ayuda.resources
+C:\Users\tania\Downloads\proyecto final\proyecto final\obj\Debug\proyecto_final.Ayuda.resources
+C:\Users\Usuario\Desktop\proyectos\proyecto final\proyecto final\obj\Debug\proyecto_final.Menu.resources
+C:\Users\Usuario\Desktop\proyectos\proyecto final\proyecto final\obj\Debug\proyecto_final.GuardarInformacion.resources
+C:\Users\rober\Desktop\proyecto final\proyecto final\obj\Debug\proyecto_final.ActualizarBuscar.resources
+C:\Users\rober\Desktop\proyecto final\proyecto final\obj\Debug\proyecto_final.GuardarInformacion.resources
+C:\Users\Usuario\Desktop\proyectos\proyecto final\proyecto final\obj\Debug\proyecto_final.ActualizarBuscar.resources
+C:\Users\rober\Videos\proyecto final\proyecto final\bin\Debug\proyecto final.exe.config
+C:\Users\rober\Videos\proyecto final\proyecto final\bin\Debug\proyecto final.exe
+C:\Users\rober\Videos\proyecto final\proyecto final\bin\Debug\proyecto final.pdb
+C:\Users\rober\Videos\proyecto final\proyecto final\obj\Debug\proyecto final.csproj.AssemblyReference.cache
+C:\Users\rober\Videos\proyecto final\proyecto final\obj\Debug\proyecto_final.ActualizarBuscar.resources
+C:\Users\rober\Videos\proyecto final\proyecto final\obj\Debug\proyecto_final.Ayuda.resources
+C:\Users\rober\Videos\proyecto final\proyecto final\obj\Debug\proyecto_final.GuardarInformacion.resources
+C:\Users\rober\Videos\proyecto final\proyecto final\obj\Debug\proyecto_final.Menu.resources
+C:\Users\rober\Videos\proyecto final\proyecto final\obj\Debug\proyecto_final.Usuario.resources
+C:\Users\rober\Videos\proyecto final\proyecto final\obj\Debug\proyecto_final.Properties.Resources.resources
+C:\Users\rober\Videos\proyecto final\proyecto final\obj\Debug\proyecto final.csproj.GenerateResource.cache
+C:\Users\rober\Videos\proyecto final\proyecto final\obj\Debug\proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\rober\Videos\proyecto final\proyecto final\obj\Debug\proyecto final.exe
+C:\Users\rober\Videos\proyecto final\proyecto final\obj\Debug\proyecto final.pdb
+C:\Users\Brouquer_\Downloads\proyecto final\bin\Debug\proyecto final.exe.config
+C:\Users\Brouquer_\Downloads\proyecto final\bin\Debug\proyecto final.exe
+C:\Users\Brouquer_\Downloads\proyecto final\bin\Debug\proyecto final.pdb
+C:\Users\Brouquer_\Downloads\proyecto final\obj\Debug\proyecto final.csproj.AssemblyReference.cache
+C:\Users\Brouquer_\Downloads\proyecto final\obj\Debug\proyecto_final.ActualizarBuscar.resources
+C:\Users\Brouquer_\Downloads\proyecto final\obj\Debug\proyecto_final.Ayuda.resources
+C:\Users\Brouquer_\Downloads\proyecto final\obj\Debug\proyecto_final.GuardarInformacion.resources
+C:\Users\Brouquer_\Downloads\proyecto final\obj\Debug\proyecto_final.Menu.resources
+C:\Users\Brouquer_\Downloads\proyecto final\obj\Debug\proyecto_final.Usuario.resources
+C:\Users\Brouquer_\Downloads\proyecto final\obj\Debug\proyecto_final.Properties.Resources.resources
+C:\Users\Brouquer_\Downloads\proyecto final\obj\Debug\proyecto final.csproj.GenerateResource.cache
+C:\Users\Brouquer_\Downloads\proyecto final\obj\Debug\proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\Brouquer_\Downloads\proyecto final\obj\Debug\proyecto final.exe
+C:\Users\Brouquer_\Downloads\proyecto final\obj\Debug\proyecto final.pdb
